@@ -1,0 +1,6 @@
+{
+  "name": "APSARA BEAUTY MAKEOVER",
+  "description": "Discover royal elegance and bridal perfection at APSARA BEAUTY MAKEOVER. Premium Indian bridal makeup, luxury hair styling, restorative skincare, and couture makeover artistry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
